@@ -1,0 +1,11 @@
+# Student Management System Requirements
+# Core GUI functionality (included with Python)
+tkinter
+
+# Data visualization (optional - for charts feature)
+matplotlib>=3.5.0
+numpy>=1.21.0
+
+# Additional useful libraries
+pandas>=1.3.0  # For advanced data operations (optional)
+pillow>=8.3.0  # For image processing if needed (optional)
